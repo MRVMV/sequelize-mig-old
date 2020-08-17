@@ -1,3 +1,6 @@
+
+###### MOVED TO https://github.com/MRVMV/sequelize-mig ######
+
 # sequelize-mig
 Sequelize migration generator and es6 init tool (Planned)
 
